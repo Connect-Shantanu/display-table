@@ -31,7 +31,7 @@ btnAdd.addEventListener ('click', () => {
             <td>${value}</td>
          </tr>`
 
-         table.innerHTML += template;
+        getElementsByClassName("tabb");
         
     
 });
