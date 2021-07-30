@@ -1,0 +1,42 @@
+*{
+    margin-top: 5px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+table{
+    width: 100%;
+}
+th{
+    margin: 10px;
+    padding: 5px;
+    background-color: #204969;
+    color: white;
+    font-weight: bold;
+}
+td{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    text-decoration: bold;
+    border: 3px solid black;
+}
+#stocks{
+    margin-bottom: 6px;
+}
+#stocks input{
+     padding: 8px;
+     font-weight: bold;  
+}
+#stocks button{
+        align-items: center;
+        justify-content: center;
+        margin-left: 700px;
+        padding: 3px;
+        font-weight: bold;
+}
+
